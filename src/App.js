@@ -23,5 +23,5 @@ function App() {
 }
 
 export default App;
-//code update
+//code updated
 //dummyjson data load
